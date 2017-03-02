@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mr Keen
+name: Zaamin Valjy
 
 # Short bio or description (displayed in the header)
-description: A few blogging ideas......
+description: Check out our Youtube channel, RobotKings99
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://findicons.com/files/icons/1072/face_avatars/300/i03.png
-
+avatar: http://futhead.cursecdn.com/static/img/fm/17/players/189242_INF7.png
 #
 # Flags below are optional
 #
@@ -18,10 +17,10 @@ avatar: http://findicons.com/files/icons/1072/face_avatars/300/i03.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ske@challoners.org
-  facebook: stuart.keen.940
+  email:
+  facebook:
   flickr:
-  github: dcgs-ske
+  github: ZaamV
   instagram:
   linkedin:
   pinterest:
