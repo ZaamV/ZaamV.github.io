@@ -8,33 +8,6 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Understanding The Basics</td>
-    <td>Date</td>
-    <td>19/09/16</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td>Starting point:</td>
-    <td>Setting up the Fuze Box</td>
-  </tr>
-  <tr>
-    <td>Target for this lesson?</td>
-    <td>To Understand the basics</td>
-  </tr>
-  <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td> Yes</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
     <td>Lesson Review</td>
   </tr>
   <tr>
