@@ -1,11 +1,38 @@
 ---
-title: Entry 6
+title: Entry 1
 layout: post
 author: zaamin.valjy
 permalink: /copy-of-zaamin's-blog-tracker-1/
 source-id: 1uLlC4zTyPG0PI-x4Zzl3Ld5-CrZdERGaDXOOujSsiyc
 published: true
 ---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Understanding The Basics</td>
+    <td>Date</td>
+    <td>19/09/16</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>Setting up the Fuze Box</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To Understand the basics</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td> Yes</td>
+  </tr>
+</table>
+
+
 <table>
   <tr>
     <td>Lesson Review</td>
